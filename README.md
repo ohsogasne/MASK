@@ -8,7 +8,7 @@
 
 assets：图库储存
 
-blog：博客
+blog：文章推荐
 
 feeds：动态推荐
 
@@ -17,4 +17,13 @@ form-login：为登录页面
 form-singup：为退出页面
 
 timeline:个人空间
+
+## 图片展示
+文章推荐页面
+
+动态页面
+![image](https://user-images.githubusercontent.com/52949416/110072650-133b3080-7db9-11eb-9c70-a7d94535d29e.png)
+
+登录页面
+![image](https://user-images.githubusercontent.com/52949416/110072670-1afad500-7db9-11eb-9630-231d3f487117.png)
 
